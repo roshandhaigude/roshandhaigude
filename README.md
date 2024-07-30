@@ -6,11 +6,11 @@
     <title>Roshan Dhaigude Portfolio</title>
     <style>
       .skills-logos img {
-        height: 50px;
+        height: 10px;
         margin: 5px;
       }
       .contact-info img {
-        height: 50px;
+        height: 10px;
         margin-right: 5px;
       }
     </style>
