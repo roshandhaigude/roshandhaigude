@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roshandhaigude/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshandhaigude/) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,aws,bash,django,docker,fastapi,flask,git,github,kafka,mongodb,mysql,nodejs,postman,r,redis,sklearn,tensorflow,threejs,py)](https://skillicons.dev)
